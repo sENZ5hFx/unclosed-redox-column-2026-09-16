@@ -1,0 +1,261 @@
+{
+  "session_id": "2026-09-16T17:40:00+00:00",
+  "ranked": [
+    {
+      "rank": 1,
+      "score": 1.5074,
+      "layer": "ccz_dark_taxa",
+      "realm": "ocean_animals",
+      "status": "confirmed_measurement",
+      "extraction_ahead": true,
+      "known_fraction": 0.078,
+      "evidence": "Current Biology checklist via WoRDSS; Earth.com 9 Sep 2026. ISA still has no mining code as of March 2026. 17 exploration contracts.",
+      "confidence_in_data": 0.86
+    },
+    {
+      "rank": 2,
+      "score": 1.4662,
+      "layer": "abyssal_dark_oxygen",
+      "realm": "ocean",
+      "status": "disputed",
+      "extraction_ahead": true,
+      "known_fraction": null,
+      "evidence": "Sweetman et al. Nature Geoscience 2024; DORI landers Alisa/Kaia (Nippon Foundation, UNESCO Ocean Decade) deploying 2026. Mechanism: abiotic electrochemistry, biochemistry, or unknown. Mining contracts exist before mechanism is known.",
+      "confidence_in_data": 0.55
+    },
+    {
+      "rank": 3,
+      "score": 1.4041,
+      "layer": "microbial_dark_matter",
+      "realm": "animals_humans",
+      "status": "confirmed_measurement",
+      "extraction_ahead": true,
+      "known_fraction": null,
+      "evidence": "Whiteson (UCI) via Discover: microbial dark matter is the gap between recoverable DNA and named/grown organisms. 2025 Nature: poorly understood microbes tied to long-term health.",
+      "confidence_in_data": 0.8
+    },
+    {
+      "rank": 4,
+      "score": 1.2765,
+      "layer": "deep_seafloor_visual",
+      "realm": "ocean",
+      "status": "confirmed_measurement",
+      "extraction_ahead": true,
+      "known_fraction": 1e-05,
+      "evidence": "Bell, Johannes, Kennedy, Poulton, Science Advances 2025 'How Little We've Seen'. 65% of observations within 200 nm of US/Japan/NZ. 97% of dives by 5 countries.",
+      "confidence_in_data": 0.93
+    },
+    {
+      "rank": 5,
+      "score": 1.2075,
+      "layer": "crustal_natural_hydrogen",
+      "realm": "land_subsurface",
+      "status": "unsolved",
+      "extraction_ahead": true,
+      "known_fraction": null,
+      "evidence": "Eos 15 Sep 2026: field pilots show microbial H2 losses from a few percent to >50%; round-trip storage efficiency 25\u201340%; commercial bets racing the science.",
+      "confidence_in_data": 0.7
+    },
+    {
+      "rank": 6,
+      "score": 1.2075,
+      "layer": "consciousness_hard_problem",
+      "realm": "humans",
+      "status": "unsolved",
+      "extraction_ahead": true,
+      "known_fraction": null,
+      "evidence": "Scientific American 15 Sep 2026 special on questions science may never answer. Fox 24 Dec 2025: aging, sleep, consciousness remain unexplained at fundamental level.",
+      "confidence_in_data": 0.95
+    },
+    {
+      "rank": 7,
+      "score": 1.1141,
+      "layer": "core_mantle_ulvz_water",
+      "realm": "earth_interior",
+      "status": "competing_result",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "Yuan et al., Nature Geoscience 2026; Wilson commentary: minerals 'represent a breakthrough in the mystery of how the Earth obtained and retained its water'; picture still 'incomplete'.",
+      "confidence_in_data": 0.72
+    },
+    {
+      "rank": 8,
+      "score": 1.0637,
+      "layer": "hadal_chemosynthesis",
+      "realm": "ocean",
+      "status": "confirmed_measurement",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "Peng, Du, Mordukhovich et al., Nature 645:679\u2013685 (2025). Deepest known chemosynthetic communities. Challenges carbon-cycling models.",
+      "confidence_in_data": 0.88
+    },
+    {
+      "rank": 9,
+      "score": 1.0062,
+      "layer": "abiogenesis",
+      "realm": "earth_ocean_life",
+      "status": "unsolved",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "Miller & Orgel 1974 still hold: 'we do not know how life began.' SciAm 15 Sep 2026: even a lab success would be one possible story, not proof it is the story.",
+      "confidence_in_data": 0.97
+    },
+    {
+      "rank": 10,
+      "score": 0.966,
+      "layer": "soil_and_land_dark_taxa",
+      "realm": "land",
+      "status": "unsolved",
+      "extraction_ahead": true,
+      "known_fraction": null,
+      "evidence": "Dark taxa literature is animal-heavy; soil microbiome remains a parallel undescribed majority. Natural hydrogen terrains overlap this layer.",
+      "confidence_in_data": 0.7
+    },
+    {
+      "rank": 11,
+      "score": 0.8973,
+      "layer": "marine_species_census",
+      "realm": "ocean_animals",
+      "status": "unsolved",
+      "extraction_ahead": true,
+      "known_fraction": 0.1,
+      "evidence": "Vox/Hartop 2025 on dark taxa; Ocean Census 1,121 new species in last year (Marca 12 Sep 2026); >90% still possibly undiscovered.",
+      "confidence_in_data": 0.65
+    },
+    {
+      "rank": 12,
+      "score": 0.8912,
+      "layer": "human_unconscious_magnetoreception",
+      "realm": "humans",
+      "status": "competing_result",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "Caltech 2019: Earth-strength field changes EEG without conscious report. Chae 2025/PopMech 4 Aug 2026: some humans register Earth-strength fields unconsciously; 'firm causal link to mood or sleep has not been demonstrated'. Gut MTB associated with hippocampus/cerebellum grey matter (J. Oceanol. Limnol. 2021) \u2014 association, not causation.",
+      "confidence_in_data": 0.35
+    },
+    {
+      "rank": 13,
+      "score": 0.875,
+      "layer": "dark_matter_identity",
+      "realm": "outer_space",
+      "status": "unsolved",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "LZ single event at 248 keV, 2.6\u03c3 (~0.5% background chance). DOE 1 Sep 2026: 'does not yet meet the statistical threshold required to claim a discovery.' If real, mass \u2273200 GeV, not a vanilla WIMP. Hubble first extragalactic GC stream 'Oyashio' (Nature, Holm et al. 16 Sep 2026) is a new probe, not a particle ID; spectroscopy still missing.",
+      "confidence_in_data": 0.9
+    },
+    {
+      "rank": 14,
+      "score": 0.8525,
+      "layer": "dark_energy_evolution",
+      "realm": "outer_space",
+      "status": "competing_result",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "Quanta 22 Jun 2026: Vafa/Obied/Bedroya/Wu dark dimension consistent with DESI; DE may have peaked ~2 Gyr ago. EDE+JWST+DESI paper (arXiv:2606.19090, ApJL 2026) claims H0 tension to 1.0\u03c3 \u2014 one model, not consensus.",
+      "confidence_in_data": 0.75
+    },
+    {
+      "rank": 15,
+      "score": 0.805,
+      "layer": "geomagnetic_reversal_trigger",
+      "realm": "earth_interior_humans",
+      "status": "unsolved",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "We know the dynamo exists; we do not know what initiates reversals.",
+      "confidence_in_data": 0.88
+    },
+    {
+      "rank": 16,
+      "score": 0.805,
+      "layer": "sleep_function",
+      "realm": "humans",
+      "status": "unsolved",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "Multiple competing functions (restoration, memory, metabolic clearance). None is sufficient.",
+      "confidence_in_data": 0.8
+    },
+    {
+      "rank": 17,
+      "score": 0.775,
+      "layer": "europa_quiet_seafloor_radiolysis",
+      "realm": "outer_space",
+      "status": "competing_result",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "Jan 2026: Europa seafloor probably too quiet for Earth-like vents. Dec 2025 model: radioactive salts could still split water. Chemical energy \u2260 biology.",
+      "confidence_in_data": 0.6
+    },
+    {
+      "rank": 18,
+      "score": 0.7,
+      "layer": "baryogenesis",
+      "realm": "outer_space",
+      "status": "unsolved",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "Siegel, Big Think 1 Dec 2025: baryogenesis requires physics beyond SM first-order electroweak transition.",
+      "confidence_in_data": 0.92
+    },
+    {
+      "rank": 19,
+      "score": 0.7,
+      "layer": "pop_iii_stars",
+      "realm": "outer_space",
+      "status": "unsolved",
+      "extraction_ahead": false,
+      "known_fraction": 0.0,
+      "evidence": "Siegel: first metal-free stars not yet observed.",
+      "confidence_in_data": 0.85
+    },
+    {
+      "rank": 20,
+      "score": 0.7,
+      "layer": "teleios_radio_sphere",
+      "realm": "outer_space",
+      "status": "unsolved",
+      "extraction_ahead": false,
+      "known_fraction": null,
+      "evidence": "ASKAP: near-perfect radio bubble, no X-ray/optical counterpart. A shape without a story.",
+      "confidence_in_data": 0.5
+    }
+  ],
+  "surface_knowledge_index": {
+    "horizontal_mean": 0.8933333333333333,
+    "vertical_mean": 0.057002500000000005,
+    "planar_bias": 15.671827259038345,
+    "ski": 0.4864773368270151
+  },
+  "earth_column": {
+    "n_nodes": 6,
+    "fluxes_known": 1,
+    "fluxes_unknown": 5,
+    "closure_fraction": 0.167,
+    "unclosed": true,
+    "column_span_km": 2900.0,
+    "carriers": [
+      "H in Fe-O-H minerals",
+      "H2 gas + microbial sink",
+      "microbial CH4 + H2S",
+      "O2 (mechanism unknown)",
+      "O2 / organic C",
+      "H2O, Fe3O4, gut redox"
+    ]
+  },
+  "europa_column": {
+    "n_nodes": 2,
+    "fluxes_known": 0,
+    "fluxes_unknown": 2,
+    "closure_fraction": 0.0,
+    "unclosed": true,
+    "column_span_km": 100.0,
+    "carriers": [
+      "O2/H2O2",
+      "H2 / O-bearing species from radionuclides"
+    ]
+  },
+  "primary_classification": "Unclosed Planetary Redox Column (UPRC)",
+  "claim_hygiene": "research-stage classification of a gap; not a physical discovery; not peer review; not a patent"
+}

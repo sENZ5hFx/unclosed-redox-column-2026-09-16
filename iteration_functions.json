@@ -1,0 +1,90 @@
+{
+  "extraction_ahead": {
+    "n": 7,
+    "global_extraction_ahead_index": 0.762,
+    "interpretation": "1.0 = every case is contracted, scientifically unclosed, fully unknown, and unregulated. 0.0 = mapped, closed, and uncontracted. This is a policy-science lag metric, not a discovery.",
+    "ranked": [
+      {
+        "name": "deep-sea visual baseline (global)",
+        "contracted": true,
+        "baseline_closed": false,
+        "unknown_fraction": 0.99999,
+        "regulator_rulebook_exists": false,
+        "note": "0.001% seen; climate + mining pressure cited by Bell 2025",
+        "inversion_score": 1.0
+      },
+      {
+        "name": "CCZ polymetallic nodules",
+        "contracted": true,
+        "baseline_closed": false,
+        "unknown_fraction": 0.92,
+        "regulator_rulebook_exists": false,
+        "note": "17 ISA exploration contracts; no exploitation code as of March 2026; 88-92% of 5578 species unnamed",
+        "inversion_score": 0.984
+      },
+      {
+        "name": "natural underground hydrogen",
+        "contracted": true,
+        "baseline_closed": false,
+        "unknown_fraction": 1.0,
+        "regulator_rulebook_exists": null,
+        "note": "commercial bets; microbial sink  few% to >50%; diffuse flux unmeasured",
+        "inversion_score": 0.95
+      },
+      {
+        "name": "human microbiome therapeutics",
+        "contracted": true,
+        "baseline_closed": false,
+        "unknown_fraction": 1.0,
+        "regulator_rulebook_exists": true,
+        "note": "drugs and probiotics ship against an unnamed genetic majority",
+        "inversion_score": 0.9
+      },
+      {
+        "name": "LZ xenon dark-matter search",
+        "contracted": false,
+        "baseline_closed": false,
+        "unknown_fraction": 1.0,
+        "regulator_rulebook_exists": true,
+        "note": "science-only; 2.6\u03c3 event is not extraction",
+        "inversion_score": 0.5
+      },
+      {
+        "name": "core-mantle water minerals",
+        "contracted": false,
+        "baseline_closed": false,
+        "unknown_fraction": 1.0,
+        "regulator_rulebook_exists": true,
+        "note": "lab mineralogy; no extraction of CMB",
+        "inversion_score": 0.5
+      },
+      {
+        "name": "Europa ocean",
+        "contracted": false,
+        "baseline_closed": false,
+        "unknown_fraction": 1.0,
+        "regulator_rulebook_exists": true,
+        "note": "no extraction; flybys only",
+        "inversion_score": 0.5
+      }
+    ]
+  },
+  "dark_naming": {
+    "n_fields": 7,
+    "n_effect_only_unknown_identity": 7,
+    "fraction_effect_only": 1.0,
+    "fraction_named_after_2010": 0.571,
+    "terms": [
+      "cosmology: dark matter (1930s)",
+      "cosmology: dark energy (1990s)",
+      "taxonomy: dark taxa (2010s)",
+      "microbiology: microbial dark matter (2010s)",
+      "oceanography: dark oxygen (2020s)",
+      "seismology: ultralow velocity zones (unnamed composition) (1990s)",
+      "exoplanet science: incomplete biosignature/false-positive inventory (2010s)"
+    ],
+    "structural_reading": "Cosmology named the unknown majority 'dark' because it was only gravitational. Biology, oceanography, and microbiology later borrowed the word for their own effect-only remainders. That borrowing is the confession: we lack a vocabulary for 'majority of the system we can only infer.' It does NOT mean dark matter, dark taxa, dark oxygen, and microbial dark matter are the same stuff.",
+    "forbidden_inference": "Do not unify these into one substance. Unify the epistemology."
+  },
+  "session_id": "2026-09-16T17:40:00+00:00"
+}
